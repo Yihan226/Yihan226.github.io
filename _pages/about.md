@@ -18,12 +18,12 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit:  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: # leave blank to include all the blog posts
 ---
 
 I'm a second-year PhD student from [CSE](https://cse.nd.edu/), [University of Notre Dame](https://www.nd.edu/). I am very fortunate to be advised by [Prof. Meng Jiang](http://www.meng-jiang.com/) and working in [DM2](http://www.meng-jiang.com/lab.html): Data Mining towards Decision Making lab.
