@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-The [Open Polymer Challenge](https://open-polymer-challenge.github.io/): Leveraging Machine Learning for Polymer Informatics was accepted to NeurIPS 2025 Competition Track and is now LAUNCHed on Kaggle!
+The [Open Polymer Challenge](https://open-polymer-challenge.github.io/): Leveraging Machine Learning for Polymer Informatics was accepted to NeurIPS 2025 Competition Track and is now LAUNCHed on Kaggle :fire:!
 
