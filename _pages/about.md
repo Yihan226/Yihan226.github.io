@@ -28,11 +28,7 @@ latest_posts:
 
 I'm a second-year PhD student from [CSE](https://cse.nd.edu/), [University of Notre Dame](https://www.nd.edu/). I am very fortunate to be advised by [Prof. Meng Jiang](http://www.meng-jiang.com/) and working in [DM2](http://www.meng-jiang.com/lab.html): Data Mining towards Decision Making lab.
 
-My current research focuses on AI for Science, 
-
-  1) Graph learning for polymer informatics,
-     
-  2) Model reasoning for material discovery.
+My current research focuses on AI for Science, 1) Graph learning for polymer informatics, 2) Model reasoning for material discovery.
 
 
 
