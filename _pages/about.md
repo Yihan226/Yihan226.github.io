@@ -28,7 +28,7 @@ latest_posts:
 
 I'm a second-year PhD student from [CSE](https://cse.nd.edu/), [University of Notre Dame](https://www.nd.edu/). I am very fortunate to be advised by [Prof. Meng Jiang](http://www.meng-jiang.com/) and working in [DM2](http://www.meng-jiang.com/lab.html): Data Mining towards Decision Making lab.
 
-I received my Bachelor degree in Electrical Engineering at Southeast University, China, in 2021. I was selected as the 2022 Spring [MS Honors Students](https://www.ee.columbia.edu/ms-ee-honors-program) in the Columbia University and graduated with the [Master of Science Award of Excellence](https://www.ee.columbia.edu/student-awards-and-fellowships).
+I received my Bachelor’s degree in Electrical Engineering from Southeast University, China, in 2021. I was selected as the [MS Honors Students](https://www.ee.columbia.edu/ms-ee-honors-program) at Columbia University in Spring 2022 and graduated with the [Master of Science Award of Excellence](https://www.ee.columbia.edu/student-awards-and-fellowships) in 2023.
 
 My current research focuses on AI for Science, 1) Graph learning for polymer informatics, 2) Model reasoning for material discovery.
 
