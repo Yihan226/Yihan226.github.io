@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-06-06
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+[torch-molecule](https://github.com/liugangcode/torch-molecule/tree/main) released! `pip install torch-molecule` to start developing your own models.
