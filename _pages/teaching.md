@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: My past teaching experience 👩‍🏫.
-nav: true
+nav: false
 nav_order: 2
 ---
 
