@@ -424,7 +424,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-million",
           title: 'Million 🎀',
-          description: "British shorthair, black silver shaded point (ns 11 33)",
+          description: "British Shorthair Black Silver Shaded Point (ns 11 33)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-4",
