@@ -3,95 +3,53 @@
   contents:
     - name: Full Name
       value: Yihan Zhu
-    - name: Date of Birth
-      value: 16th March 2001
-    - name: Languages
-      value: English, Chinese
+    - name: Email
+      value: yzhu25@nd.edu
+    - name: Phone
+      value: (574) 208-8725
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Notre Dame, IN
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD of Computer Science and Engineering
+      institution: University of Notre Dame, South Bend, IN
+      year: 2024-2029(expected)
+    - title: Master of Electrical Engineering
+      institution: Columbia University, New York, NY
+      year: 2021-2023
+    - title: Bachelor of Electrical Science and Technology
+      institution: Southeast University, Nanjing, Jiangsu
+      year: 2017-2021
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: AI Engineer Internship
+      institution: SOPHON
+      year: 2023-2024
+      description: Led AI micro-server SE5 development on TPU accelerator, building cross-compilation environment, porting PyTorch (YOLOv5/7/8) models to FP32 bmodels via NNTC toolchain for target detection, and achieving INT8 quantization with accuracy tuning.
+    - title: Software Engineer Internship
+      institution: Whale Cloud Computing Technology Co., Ltd
+      year: 2020-2021
+      description: Developed user info interaction web service with vertical sharding and RabbitMQ, optimized data storage with Redis/MySQL, applied MapReduce for privacy-preserving big data processing, and leveraged deep learning & random forest to predict broadband off-grid behavior with feature importance analysis.
+    - title: Data Engineer Internship
+      institution: Tencent Cloud Computing Co., Ltd Cloud Service Platform
+      year: 2020
+      description: Evaluated MySQL solutions for project/client needs and leveraged virtualization to efficiently deploy test environments and accelerate self-test data collection.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
+- title: Publications
+  type: nested_list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
+    - title: Learning Repetition-Invariant Representations for Polymer Informatics.
+    - title: MolTextNet: A Two-Million Molecule-Text Dataset for Multimodal Molecular Learning.
+        
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Master of Science Award of Excellence
+      year: 2023
+      description: Top graduating MS students are recognized with the Master of Science Award of Excellence that is awarded to less than 5% of the graduating class.
+    - title: MS EE Honors Program
+      year: 2022
+      description: Active EE MS students with a GPA in the top 10% of the class are included in the MS Honors program.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
