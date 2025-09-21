@@ -417,14 +417,14 @@ ninja.data = [{
           section: "News",},{id: "news-the-paper-learning-repetition-invariant-representations-for-polymer-informatics-is-accepted-to-neurips",
           title: 'The paper Learning Repetition-Invariant Representations for Polymer Informatics is accepted to NeurIPS! ✨...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-dollar",
+          title: 'Dollar 💲',
+          description: "British Shorthair Blue and White",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-million",
+          title: 'Million 🎀',
+          description: "British shorthair, black silver shaded point (ns 11 33)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-4",
