@@ -23,7 +23,7 @@ She is very affectionate and never aggressive. She always wants to stay by my si
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/m5.jpg" title="10 months Mi" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -33,7 +33,7 @@ She is very affectionate and never aggressive. She always wants to stay by my si
 
 Million loves steamed bun, always eats with mom.
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/m6.jpg" title="Mi eats" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
