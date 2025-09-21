@@ -41,7 +41,7 @@
   type: time_table
   contents:
     - title: TA at University of Notre Dame, PhD level
-      course: CSE 60556 Large Language Models: Basics and Practice
+      course: CSE 60556 Large Language Models
       year: 2024 Fall
       description: A graduate-level course on large language models covering their tasks, architectures, training, reasoning, efficiency, applications, and societal challenges.
     - title: Company-sponsored lecturer at Shenzhen University
