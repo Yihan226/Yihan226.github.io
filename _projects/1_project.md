@@ -10,7 +10,7 @@ related_publications: true
 
 I am a little cat with a mind of my own. I love my owners and always stay close to them, but I don’t like being held.
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/d5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -21,7 +21,7 @@ I am a little cat with a mind of my own. I love my owners and always stay close 
 
 My first birthday! I am not a little kitten anymore :heart_eyes_cat:.
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/d6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -43,7 +43,7 @@ Grandma and Grandpa took me out for a autumn outing, but I felt very nervous.
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/d12.JPG" title="2025" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -54,7 +54,7 @@ Grandma and Grandpa took me out for a autumn outing, but I felt very nervous.
 
 They said I am cute, what do you think? :smiley:
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/d13.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -67,7 +67,7 @@ They said I am cute, what do you think? :smiley:
 
 Call me kitty boss :sunglasses:
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-9 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/d14.JPG" title="2025" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
