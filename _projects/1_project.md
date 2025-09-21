@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dollar :pig2:
+title: Dollar 💲
 description: British Shorthair Blue and White
 img: assets/img/d1.jpg
 importance: 1
