@@ -37,6 +37,22 @@
       year: 2020
       description: Evaluated MySQL solutions for project/client needs and leveraged virtualization to efficiently deploy test environments and accelerate self-test data collection.
 
+- title: Teaching
+  type: time_table
+  contents:
+    - title: TA at University of Notre Dame, PhD level
+      course: CSE 60556 Large Language Models: Basics and Practice
+      year: 2024 Fall
+      description: A graduate-level course on large language models covering their tasks, architectures, training, reasoning, efficiency, applications, and societal challenges.
+    - title: Company-sponsored lecturer at Shenzhen University
+      course: Theory and Practice of Large Models
+      year: 2023 Summer
+      description: A course on AI compilers that teaches principles, design, and optimization with TPU-MLIR for efficient TPU use and career preparation in AI.
+    - title: TA at Columbia University, MS level
+      course: ELEN E6770 Network Virtualization and Cloud Computing
+      year: 2022 Fall
+      description: An advanced study of communication protocols, network architectures, flow/congestion control, and performance evaluation in integrated networks.
+
 - title: Honors and Awards
   type: time_table
   contents:
