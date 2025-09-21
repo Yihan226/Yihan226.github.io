@@ -53,4 +53,3 @@ Million loves steamed bun, always eats with mom.
 <div class="caption">
     Rolling Mimi.
 </div>
-{% endraw %}
