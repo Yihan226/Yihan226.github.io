@@ -13,7 +13,7 @@
   contents:
     - title: PhD of Computer Science and Engineering
       institution: University of Notre Dame, South Bend, IN
-      year: 2024-2029(expected)
+      year: 2024-2029
     - title: Master of Electrical Engineering
       institution: Columbia University, New York, NY
       year: 2021-2023
@@ -25,31 +25,31 @@
   type: time_table
   contents:
     - title: AI Engineer Internship
-      company: SOPHON
+      institution: SOPHON
       year: 2023-2024
       description: Led AI micro-server SE5 development on TPU accelerator, building cross-compilation environment, porting PyTorch (YOLOv5/7/8) models to FP32 bmodels via NNTC toolchain for target detection, and achieving INT8 quantization with accuracy tuning.
     - title: Software Engineer Internship
-      company: Whale Cloud Computing Technology Co., Ltd
+      institution: Whale Cloud Computing Technology Co., Ltd
       year: 2020-2021
       description: Developed user info interaction web service with vertical sharding and RabbitMQ, optimized data storage with Redis/MySQL, applied MapReduce for privacy-preserving big data processing, and leveraged deep learning & random forest to predict broadband off-grid behavior with feature importance analysis.
     - title: Data Engineer Internship
-      company: Tencent Cloud Computing Co., Ltd Cloud Service Platform
+      institution: Tencent Cloud Computing Co., Ltd Cloud Service Platform
       year: 2020
       description: Evaluated MySQL solutions for project/client needs and leveraged virtualization to efficiently deploy test environments and accelerate self-test data collection.
 
 - title: Teaching
   type: time_table
   contents:
-    - title: TA at University of Notre Dame, PhD level
-      course: CSE 60556 Large Language Models
+    - title: CSE 60556 Large Language Models (TA, PhD level)
+      institution: University of Notre Dame
       year: 2024 Fall
       description: A graduate-level course on large language models covering their tasks, architectures, training, reasoning, efficiency, applications, and societal challenges.
-    - title: Company-sponsored lecturer at Shenzhen University
-      course: Theory and Practice of Large Models
+    - title: Theory and Practice of Large Models (Lecturer)
+      institution: Shenzhen University
       year: 2023 Summer
       description: A course on AI compilers that teaches principles, design, and optimization with TPU-MLIR for efficient TPU use and career preparation in AI.
-    - title: TA at Columbia University, MS level
-      course: ELEN E6770 Network Virtualization and Cloud Computing
+    - title: E6770 Network Virtualization and Cloud Computing (TA, MS level)
+      institution: Columbia University
       year: 2022 Fall
       description: An advanced study of communication protocols, network architectures, flow/congestion control, and performance evaluation in integrated networks.
 
