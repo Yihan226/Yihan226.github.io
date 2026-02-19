@@ -414,7 +414,7 @@ ninja.data = [{
           title: 'I am excited to receive the NeurIPS 25 travel award. See you in...',
           description: "",
           section: "News",},{id: "news-the-paper-graph-diffusion-transformers-are-in-context-molecular-designers-is-accepted-to-iclr",
-          title: 'The paper Graph Diffusion Transformers are In-Context Molecular Designers) is accepted to ICLR!...',
+          title: 'The paper Graph Diffusion Transformers are In-Context Molecular Designers is accepted to ICLR!...',
           description: "",
           section: "News",},{id: "projects-dollar",
           title: 'Dollar 💲',
