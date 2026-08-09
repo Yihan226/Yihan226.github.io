@@ -21,21 +21,21 @@
       institution: Southeast University, Nanjing, Jiangsu
       year: 2017-2021
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: AI Engineer Internship
-      institution: SOPHON
-      year: 2023-2024
-      description: Led AI micro-server SE5 development on TPU accelerator.
-    - title: Software Engineer Internship
-      institution: Whale Cloud Computing Technology Co., Ltd
-      year: 2020-2021
-      description: Developed a scalable user information service with asynchronous processing and data sharding.
-    - title: Data Engineer Internship
-      institution: Tencent Cloud Computing Co., Ltd Cloud Service Platform
-      year: 2020
-      description: Evaluated and optimized MySQL solutions based on system architecture and client requirements.
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: AI Engineer Internship
+#       institution: SOPHON
+#       year: 2023-2024
+#       description: Led AI micro-server SE5 development on TPU accelerator.
+#     - title: Software Engineer Internship
+#       institution: Whale Cloud Computing Technology Co., Ltd
+#       year: 2020-2021
+#       description: Developed a scalable user information service with asynchronous processing and data sharding.
+#     - title: Data Engineer Internship
+#       institution: Tencent Cloud Computing Co., Ltd Cloud Service Platform
+#       year: 2020
+#       description: Evaluated and optimized MySQL solutions based on system architecture and client requirements.
 
 - title: Teaching
   type: time_table
