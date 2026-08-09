@@ -39,7 +39,11 @@ body.sticky-bottom-footer {
 }
 
 // TODO: redefine content layout.
-
+.news-scroll-window {
+  max-height: 18rem;
+  overflow-y: auto;
+  padding-right: 0.25rem;
+}
 /******************************************************************************
  * Publications
  ******************************************************************************/
