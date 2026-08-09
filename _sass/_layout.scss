@@ -40,9 +40,14 @@ body.sticky-bottom-footer {
 
 // TODO: redefine content layout.
 .news-scroll-window {
-  max-height: 18rem;
+  max-height: 22rem;
   overflow-y: auto;
+  overscroll-behavior: contain;
   padding-right: 0.25rem;
+
+  .table {
+    margin-bottom: 0;
+  }
 }
 /******************************************************************************
  * Publications
