@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit:  # leave blank to include all the news in the `_news` folder
+  limit:  5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -30,9 +30,4 @@ I'm a second-year PhD student from [CSE](https://cse.nd.edu/), [University of No
 
 I received my Bachelor’s degree in Electrical Engineering from Southeast University, China, in 2021. I was selected as the [MS Honors Students](https://www.ee.columbia.edu/ms-ee-honors-program) at Columbia University in Spring 2022 and graduated with the [Master of Science Award of Excellence](https://www.ee.columbia.edu/student-awards-and-fellowships) in 2023.
 
-My research focuses on AI for Science, 
-1) Foundation models, 
-2) Graph learning.
-
-My long-term goal is to build generative scientific world models that can simulate, explain, and reason about complex chemical systems. 
-
+My research focuses on foundation models and generative modeling for AI for Science, with the long-term goal of building scientific world models that can simulate, explain, and reason about complex chemical systems.
