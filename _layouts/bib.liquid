@@ -11,6 +11,7 @@
           {%- endif -%}
           <abbr
             class="badge rounded w-100"
+            data-year="{{ entry.year }}"
             {% if venue_style %}
               {{ venue_style }}
             {% endif -%}
@@ -22,7 +23,9 @@
             {% endif %}
           </abbr>
         {% else %}
-          <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
+          <abbr class="badge rounded w-100" data-year="{{ entry.year }}">
+            {{ entry.abbr }}
+          </abbr>
         {% endif %}
       {% endif %}
       {% if entry.preview %}
