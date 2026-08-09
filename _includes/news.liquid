@@ -4,7 +4,7 @@
     <div
       class="table-responsive{% if page.announcements.scrollable and news_size > 6 %} news-scroll-window{% endif %}"
     >
-      <table class="table table-sm table-borderless">
+      <table class="table table-sm table-borderless news-timeline">
         {% assign news = site.news | reverse %}
         {% if include.limit and page.announcements.limit %}
           {% assign news_limit = page.announcements.limit %}
