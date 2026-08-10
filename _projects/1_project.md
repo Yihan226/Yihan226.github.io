@@ -84,3 +84,17 @@ Miss u~
 <div class="caption">
     2 yrs Dollar.
 </div>
+
+Summer ☀️ 💦:
+<div class="row justify-content-sm-center">
+    <div class="col-sm-9 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/d17.jpg" title="2026" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+🐱
+<div class="row justify-content-sm-center">
+    <div class="col-sm-9 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/d18.jpg" title="2026" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
